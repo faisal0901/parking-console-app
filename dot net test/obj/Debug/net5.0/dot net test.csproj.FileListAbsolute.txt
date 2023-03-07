@@ -1,0 +1,16 @@
+C:\Users\user\RiderProjects\dot net test\dot net test\bin\Debug\net5.0\dot net test.exe
+C:\Users\user\RiderProjects\dot net test\dot net test\bin\Debug\net5.0\dot net test.deps.json
+C:\Users\user\RiderProjects\dot net test\dot net test\bin\Debug\net5.0\dot net test.runtimeconfig.json
+C:\Users\user\RiderProjects\dot net test\dot net test\bin\Debug\net5.0\dot net test.runtimeconfig.dev.json
+C:\Users\user\RiderProjects\dot net test\dot net test\bin\Debug\net5.0\dot net test.dll
+C:\Users\user\RiderProjects\dot net test\dot net test\bin\Debug\net5.0\ref\dot net test.dll
+C:\Users\user\RiderProjects\dot net test\dot net test\bin\Debug\net5.0\dot net test.pdb
+C:\Users\user\RiderProjects\dot net test\dot net test\obj\Debug\net5.0\dot net test.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\dot net test\dot net test\obj\Debug\net5.0\dot net test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\dot net test\dot net test\obj\Debug\net5.0\dot net test.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\dot net test\dot net test\obj\Debug\net5.0\dot net test.AssemblyInfo.cs
+C:\Users\user\RiderProjects\dot net test\dot net test\obj\Debug\net5.0\dot net test.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\dot net test\dot net test\obj\Debug\net5.0\dot net test.dll
+C:\Users\user\RiderProjects\dot net test\dot net test\obj\Debug\net5.0\ref\dot net test.dll
+C:\Users\user\RiderProjects\dot net test\dot net test\obj\Debug\net5.0\dot net test.pdb
+C:\Users\user\RiderProjects\dot net test\dot net test\obj\Debug\net5.0\dot net test.genruntimeconfig.cache
